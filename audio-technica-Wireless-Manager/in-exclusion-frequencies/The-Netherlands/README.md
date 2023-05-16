@@ -6,15 +6,15 @@ Wireless Manager's frequency gamut runs from 150MHz to 2000MHz, in- and exclusio
 
 To "solve" this issue, I have made an alternative exlusion data file (`WORKAROUND-nation-wide-exclusion-data.NL.json`) that blocks out the entire frequency spectrum except for the the allowed ranges by the governement. The major drawback of this solution is that it is much harder to subtract your own regionally allowed and safe frequency range. Next to that, inputting and mainting this data is much more time-consuming, as the goverment provides a list of where you _can_ be.
 
-## nation-wide-exclusion-data.NL.json
+## `nation-wide-exclusion-data.NL.json`
 
 The exclusion data is exclusively nation wide. To fine-tune the exclusion data to your specific region, you will need to select the TV channels that are active on your location.
 
-## WORKAROUND-nation-wide-exclusion-data.NL.json
+## `WORKAROUND-nation-wide-exclusion-data.NL.json`
 
 Contains the same data is above mentioned file, but additionally all frequencies except for the nation-wide allowed frequencies ranges are blocked out. (I hope an update of Wireless Manager will make having to do this obsolete).
 
-## nation-wide-inclusion-data.NL.json
+## `nation-wide-inclusion-data.NL.json`
 
 The inclusion data is exclusively nation wide. Regionally there are some extra allowed and safe frequencies you could add to inclusion data if you need to maximise your possibilities in a difficult location. Please visit RDI's website for this information.
 
