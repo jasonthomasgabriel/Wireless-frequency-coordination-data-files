@@ -1,6 +1,10 @@
 # audio-technica Wireless Manager
 
+## In- and exclusion data for The Netherlands
+
 The in- and exclusion data are exclusively nation wide. To fine-tune the exclusion data to your specific region, you will need to select the TV channels that are active on your location. And because of this, regionally there are some allowed and safe frequencies you could add to inclusion data if you need to maximise your possibilities in a difficult location. Please visit RDI's website for this information.
+
+Wireless Manager's frequency gamut runs from 150MHz to 2000MHz, in- and exclusion data outside of this range _had_ to be omitted.
 
 > **Note:** Wireless Manager **does not** seem to prioritise (or snap to) inclusion data, so frequencies may end up being coordinated to a frequency that is neither included nor excluded. This may mean you will operate your wireless device on a frequency that is not allowed by the government.
 
