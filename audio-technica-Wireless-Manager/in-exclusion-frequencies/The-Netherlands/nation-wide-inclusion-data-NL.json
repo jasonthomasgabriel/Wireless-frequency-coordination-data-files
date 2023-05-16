@@ -1,0 +1,180 @@
+{
+    "app_ver": "2.0.0",
+    "date": "2023-05-16",
+    "_author": "Tommy Everts",
+    "_reference": "Frequency data obtained from https://www.rdi.nl/onderwerpen/microfoons---draadloos-gebruik-en-frequenties/totaaloverzicht-frequenties-voor-draadloze-microfoons",
+    "_notes": "Wireless Manager's freq. gamut seems to run from 150MHz to 2000MHz. Frequencies outside this range are omitted",
+    "inclusions": {
+        "in_band_list": [
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 202000,
+                    "start": 195000
+                },
+                "id": 1,
+                "name": "Band D",
+                "note": "50 mW erp",
+                "turning_type": 1,
+                "tvch_no": -1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 556000,
+                    "start": 470000
+                },
+                "id": 2,
+                "name": "Band E1",
+                "note": "50 mW erp",
+                "turning_type": 1,
+                "tvch_no": -1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 564000,
+                    "start": 558000
+                },
+                "id": 3,
+                "name": "Band E2",
+                "note": "50 mW erp",
+                "turning_type": 1,
+                "tvch_no": -1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 572000,
+                    "start": 566000
+                },
+                "id": 4,
+                "name": "Band E3",
+                "note": "50 mW erp",
+                "turning_type": 1,
+                "tvch_no": -1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 580000,
+                    "start": 574000
+                },
+                "id": 5,
+                "name": "Band E4",
+                "note": "50 mW erp",
+                "turning_type": 1,
+                "tvch_no": -1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 588000,
+                    "start": 582000
+                },
+                "id": 6,
+                "name": "Band E5",
+                "note": "50 mW erp",
+                "turning_type": 1,
+                "tvch_no": -1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 596000,
+                    "start": 590000
+                },
+                "id": 7,
+                "name": "Band E6",
+                "note": "50 mW erp",
+                "turning_type": 1,
+                "tvch_no": -1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 604000,
+                    "start": 598000
+                },
+                "id": 8,
+                "name": "Band E7",
+                "note": "50 mW erp",
+                "turning_type": 1,
+                "tvch_no": -1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 694000,
+                    "start": 614000
+                },
+                "id": 9,
+                "name": "Band E8",
+                "note": "50 mW erp",
+                "turning_type": 1,
+                "tvch_no": -1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 753000,
+                    "start": 736000
+                },
+                "id": 10,
+                "name": "Band F",
+                "note": "50 mW erp",
+                "turning_type": 1,
+                "tvch_no": -1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 826000,
+                    "start": 823000
+                },
+                "id": 11,
+                "name": "Band G",
+                "note": "20 mW handheld / 100 mW body",
+                "turning_type": 1,
+                "tvch_no": -1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 832000,
+                    "start": 826000
+                },
+                "id": 12,
+                "name": "Band H",
+                "note": "100 mW eirp",
+                "turning_type": 1,
+                "tvch_no": -1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 865000,
+                    "start": 863000
+                },
+                "id": 13,
+                "name": "Band I",
+                "note": "10 mW eirp",
+                "turning_type": 1,
+                "tvch_no": -1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 1805000,
+                    "start": 1785000
+                },
+                "id": 14,
+                "name": "Band J",
+                "note": "20 mW handheld / 50 mW body",
+                "turning_type": 1,
+                "tvch_no": -1
+            }
+        ]
+    },
+    "time": "14:11:49.784"
+}
