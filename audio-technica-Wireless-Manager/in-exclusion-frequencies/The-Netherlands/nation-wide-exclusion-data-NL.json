@@ -1,0 +1,336 @@
+{
+    "app_ver": "2.0.0",
+    "date": "di mei 16 2023",
+    "_author": "Tommy Everts",
+    "_reference": "Frequency data obtained from https://antennekaart.nl/page/frequencies",
+    "_notes": "Wireless Manager's freq. gamut seems to run from 150MHz to 2000MHz. Frequencies outside this range are omitted",
+    "exclusions": {
+        "ex_band_list": [
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 229000,
+                    "start": 174000
+                },
+                "imd_source": 0,
+                "name": "DAB+ Radio",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 778000,
+                    "start": 768000
+                },
+                "imd_source": 0,
+                "name": "KPN Download (28)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 723000,
+                    "start": 713000
+                },
+                "imd_source": 0,
+                "name": "KPN Upload (28)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 464800,
+                    "start": 461800
+                },
+                "imd_source": 0,
+                "name": "PAMR Download",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 454800,
+                    "start": 451800
+                },
+                "imd_source": 0,
+                "name": "PAMR Upload",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 801000,
+                    "start": 791000
+                },
+                "imd_source": 0,
+                "name": "T-Mobile Download (20)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 788000,
+                    "start": 778000
+                },
+                "imd_source": 0,
+                "name": "T-Mobile Download (28)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 842000,
+                    "start": 832000
+                },
+                "imd_source": 0,
+                "name": "T-Mobile Upload (20)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 733000,
+                    "start": 723000
+                },
+                "imd_source": 0,
+                "name": "T-Mobile Upload (28)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 811000,
+                    "start": 801000
+                },
+                "imd_source": 0,
+                "name": "Vodafone Download (20)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 768000,
+                    "start": 758000
+                },
+                "imd_source": 0,
+                "name": "Vodafone Download (28)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 850000,
+                    "start": 842000
+                },
+                "imd_source": 0,
+                "name": "Vodafone Upload (20)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 713000,
+                    "start": 703000
+                },
+                "imd_source": 0,
+                "name": "Vodafone Upload (28)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 821000,
+                    "start": 811000
+                },
+                "imd_source": 0,
+                "name": "9. KPN Download (20)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 862000,
+                    "start": 852000
+                },
+                "imd_source": 0,
+                "name": "9. KPN Upload (20)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 935000,
+                    "start": 925000
+                },
+                "imd_source": 0,
+                "name": "9. Vodafone Download (8)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 890000,
+                    "start": 880000
+                },
+                "imd_source": 0,
+                "name": "9. Vodafone Upload (8)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 945000,
+                    "start": 935000
+                },
+                "imd_source": 0,
+                "name": "9. KPN Download (8)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 900000,
+                    "start": 890000
+                },
+                "imd_source": 0,
+                "name": "9. KPN Upload (8)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 960000,
+                    "start": 945000
+                },
+                "imd_source": 0,
+                "name": "9. T-Mobile Download (8)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 915000,
+                    "start": 900000
+                },
+                "imd_source": 0,
+                "name": "9. T-Mobile Upload (8)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 1467000,
+                    "start": 1452000
+                },
+                "imd_source": 0,
+                "name": "9. Vodafone Download (32)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 1482000,
+                    "start": 1467000
+                },
+                "imd_source": 0,
+                "name": "9. KPN Download (32)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 1492000,
+                    "start": 1482000
+                },
+                "imd_source": 0,
+                "name": "9. T-Mobile Download (32)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 1940000,
+                    "start": 1920000
+                },
+                "imd_source": 0,
+                "name": "9. Vodafone Upload (1)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 1960000,
+                    "start": 1940000
+                },
+                "imd_source": 0,
+                "name": "9. T-Mobile Upload (1)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            },
+            {
+                "enabled": 1,
+                "freq_range": {
+                    "end": 1980000,
+                    "start": 1960000
+                },
+                "imd_source": 0,
+                "name": "9. KPN Upload (1)",
+                "note": "",
+                "symbol_type": "E",
+                "turning_type": 1
+            }
+        ]
+    },
+    "time": "14:12:02"
+}
