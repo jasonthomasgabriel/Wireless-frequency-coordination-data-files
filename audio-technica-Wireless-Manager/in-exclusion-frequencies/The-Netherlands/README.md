@@ -4,7 +4,7 @@ Wireless Manager's frequency gamut runs from 150MHz to 2000MHz, in- and exclusio
 
 **An important message before you get started:** Wireless Manager does not seem to prioritise (or snap to) inclusion data, so frequencies may end up being coordinated to a frequency that is neither included nor excluded. This may mean you will operate your wireless device on a frequency that is not allowed by the government.
 
-To "solve" this issue, I have made an alternative exlusion data file (`WORKAROUND-nation-wide-exclusion-data.NL.json`) that blocks out the entire frequency spectrum except for the the allowed ranges by the governement. The major drawback of this solution is that it is much harder to add subtract your own region safe zone. Next to that, inputting and mainting this data is much more time-consuming, as the goverment provides a list of where you _can_ be.
+To "solve" this issue, I have made an alternative exlusion data file (`WORKAROUND-nation-wide-exclusion-data.NL.json`) that blocks out the entire frequency spectrum except for the the allowed ranges by the governement. The major drawback of this solution is that it is much harder to subtract your own regionally allowed and safe frequency range. Next to that, inputting and mainting this data is much more time-consuming, as the goverment provides a list of where you _can_ be.
 
 ## `nation-wide-exclusion-data.NL.json`
 
