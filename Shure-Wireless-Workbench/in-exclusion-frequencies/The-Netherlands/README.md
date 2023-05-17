@@ -6,7 +6,7 @@ The in- and exclusion data are exclusively nation wide. To fine-tune the exclusi
 
 Adding these exclusion to Wireless Workbench is pretty straight-forward. `Frequency Coordination (tab) > Spectrum (tab) > Additional Exclusions > Import`.
 
-## `nation-wide-inclusion-data-NL.fxl`
+## `nation-wide-inclusion-data-NL.ils`
 
 This file contains the safe and allowed opertating frequency ranges as declared by the government. To make Wirless Workbench snap _only_ to these inclusions, you will need to import this file in a specific way: `Frequency Coordination (tab) > Spectrum (tab) > Inclusions > Account for user groups (...) [enable] > Manage > Custom` once you have selected custom, find the settings icon under the `Groups` column and click on it to select `Import Groups`. Select this inclusion file and then hit save.
 
