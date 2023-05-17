@@ -9,18 +9,6 @@
             {
                 "enabled": 1,
                 "freq_range": {
-                    "end": 229000,
-                    "start": 174000
-                },
-                "imd_source": 0,
-                "name": "DAB+ Radio",
-                "note": "",
-                "symbol_type": "E",
-                "turning_type": 1
-            },
-            {
-                "enabled": 1,
-                "freq_range": {
                     "end": 778000,
                     "start": 768000
                 },
