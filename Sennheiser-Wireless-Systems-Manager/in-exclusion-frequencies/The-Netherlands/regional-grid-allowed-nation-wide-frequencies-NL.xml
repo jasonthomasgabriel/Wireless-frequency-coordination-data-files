@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WSMBarData 
+WSMBarName="Allowed wireless frequencies The Netherlands" 
+WSMBarDescription="Allowed Dutch Spectrum Definitions for WSM" 
+WSMBarDate="2023-05-17" 
+WSMBarOwner="Tommy Everts" 
+WSMBarVersion="1.1" 
+
+xsi:schemaLocation="http://www.sennheiser.com/WSM WSMBarData6v2_had_1.19.xsd" 
+xmlns="http://www.sennheiser.com/WSM" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+	<SpectrumDefinition>
+		<SpectrumID>Band A200khz</SpectrumID>
+		<SpectrumWidth>2000</SpectrumWidth>
+		<SpectrumSection>
+			<SectionName>Band A200khz</SectionName>
+			<SectionShortName>A200khz</SectionShortName>
+			<SectionWidth>2000</SectionWidth>
+			<SectionPriority>1</SectionPriority>
+		</SpectrumSection>
+	</SpectrumDefinition>	
+
+	<Band>
+		<BandType>Band A200khz</BandType>
+		<BandName>Band A1</BandName>
+		<BandShortName>A1</BandShortName>
+		<BandStart>36600</BandStart>
+	</Band>
+	<Band>
+		<BandType>Band A200khz</BandType>
+		<BandName>Band A2</BandName>
+		<BandShortName>A2</BandShortName>
+		<BandStart>37000</BandStart>
+	</Band>
+	<Band>
+		<BandType>Band A200khz</BandType>
+		<BandName>Band A3</BandName>
+		<BandShortName>A3</BandShortName>
+		<BandStart>37800</BandStart>
+	</Band>
+	<Band>
+		<BandType>Band A200khz</BandType>
+		<BandName>Band A4</BandName>
+		<BandShortName>A4</BandShortName>
+		<BandStart>38200</BandStart>
+	</Band>
+	<Band>
+		<BandType>Band A200khz</BandType>
+		<BandName>Band A5</BandName>
+		<BandShortName>A5</BandShortName>
+		<BandStart>38600</BandStart>
+	</Band>
+
+	<SpectrumDefinition>
+		<SpectrumID>Band B</SpectrumID>
+		<SpectrumWidth>120</SpectrumWidth>
+		<SpectrumSection>
+			<SectionName>Band B</SectionName>
+			<SectionShortName>B</SectionShortName>
+			<SectionWidth>120</SectionWidth>
+			<SectionPriority>1</SectionPriority>
+		</SpectrumSection>
+	</SpectrumDefinition>	
+
+	<Band>
+		<BandType>Band B</BandType>
+		<BandName>Band B</BandName>
+		<BandShortName>B</BandShortName>
+		<BandStart>37480</BandStart>
+	</Band>
+
+	<SpectrumDefinition>
+		<SpectrumID>Band C</SpectrumID>
+		<SpectrumWidth>20500</SpectrumWidth>
+		<SpectrumSection>
+			<SectionName>Band C</SectionName>
+			<SectionShortName>C</SectionShortName>
+			<SectionWidth>37480</SectionWidth>
+			<SectionPriority>1</SectionPriority>
+		</SpectrumSection>
+	</SpectrumDefinition>	
+
+	<Band>
+		<BandType>Band C</BandType>
+		<BandName>Band C</BandName>
+		<BandShortName>C</BandShortName>
+		<BandStart>87500</BandStart>
+	</Band>
+
+	<SpectrumDefinition>
+		<SpectrumID>Band D</SpectrumID>
+		<SpectrumWidth>7000</SpectrumWidth>
+		<SpectrumSection>
+			<SectionName>Band D</SectionName>
+			<SectionShortName>D</SectionShortName>
+			<SectionWidth>7000</SectionWidth>
+			<SectionPriority>1</SectionPriority>
+		</SpectrumSection>
+	</SpectrumDefinition>	
+
+	<Band>
+		<BandType>Band D</BandType>
+		<BandName>Band D</BandName>
+		<BandShortName>D</BandShortName>
+		<BandStart>195000</BandStart>
+	</Band>
+
+	<SpectrumDefinition>
+		<SpectrumID>Band E1</SpectrumID>
+		<SpectrumWidth>86000</SpectrumWidth>
+		<SpectrumSection>
+			<SectionName>Band E1</SectionName>
+			<SectionShortName>E1</SectionShortName>
+			<SectionWidth>86000</SectionWidth>
+			<SectionPriority>1</SectionPriority>
+		</SpectrumSection>
+	</SpectrumDefinition>	
+
+	<Band>
+		<BandType>Band E1</BandType>
+		<BandName>Band E1</BandName>
+		<BandShortName>E1</BandShortName>
+		<BandStart>470000</BandStart>
+	</Band>
+
+	<SpectrumDefinition>
+		<SpectrumID>Band E600khz</SpectrumID>
+		<SpectrumWidth>6000</SpectrumWidth>
+		<SpectrumSection>
+			<SectionName>Band E600khz</SectionName>
+			<SectionShortName>E600khz</SectionShortName>
+			<SectionWidth>6000</SectionWidth>
+			<SectionPriority>1</SectionPriority>
+		</SpectrumSection>
+	</SpectrumDefinition>	
+
+	<Band>
+		<BandType>Band E600khz</BandType>
+		<BandName>Band E2</BandName>
+		<BandShortName>E2</BandShortName>
+		<BandStart>558000</BandStart>
+	</Band>
+
+	<Band>
+		<BandType>Band E600khz</BandType>
+		<BandName>Band E3</BandName>
+		<BandShortName>E3</BandShortName>
+		<BandStart>566000</BandStart>
+	</Band>
+	
+	<Band>
+		<BandType>Band E600khz</BandType>
+		<BandName>Band E4</BandName>
+		<BandShortName>E3</BandShortName>
+		<BandStart>574000</BandStart>
+	</Band>
+
+	<Band>
+		<BandType>Band E600khz</BandType>
+		<BandName>Band E5</BandName>
+		<BandShortName>E5</BandShortName>
+		<BandStart>582000</BandStart>
+	</Band>
+
+	<Band>
+		<BandType>Band E600khz</BandType>
+		<BandName>Band E6</BandName>
+		<BandShortName>E6</BandShortName>
+		<BandStart>590000</BandStart>
+	</Band>
+
+	<Band>
+		<BandType>Band E600khz</BandType>
+		<BandName>Band E7</BandName>
+		<BandShortName>E7</BandShortName>
+		<BandStart>598000</BandStart>
+	</Band>
+
+	<SpectrumDefinition>
+		<SpectrumID>Band E8</SpectrumID>
+		<SpectrumWidth>80000</SpectrumWidth>
+		<SpectrumSection>
+			<SectionName>Band E8</SectionName>
+			<SectionShortName>E8</SectionShortName>
+			<SectionWidth>80000</SectionWidth>
+			<SectionPriority>1</SectionPriority>
+		</SpectrumSection>
+	</SpectrumDefinition>	
+
+	<Band>
+		<BandType>Band E8</BandType>
+		<BandName>Band E8</BandName>
+		<BandShortName>E8</BandShortName>
+		<BandStart>614000</BandStart>
+	</Band>
+
+	<SpectrumDefinition>
+		<SpectrumID>Band F</SpectrumID>
+		<SpectrumWidth>17000</SpectrumWidth>
+		<SpectrumSection>
+			<SectionName>Band F</SectionName>
+			<SectionShortName>F</SectionShortName>
+			<SectionWidth>17000</SectionWidth>
+			<SectionPriority>1</SectionPriority>
+		</SpectrumSection>
+	</SpectrumDefinition>	
+
+	<Band>
+		<BandType>Band F</BandType>
+		<BandName>Band F</BandName>
+		<BandShortName>F</BandShortName>
+		<BandStart>736000</BandStart>
+	</Band>
+
+	<SpectrumDefinition>
+		<SpectrumID>Band G</SpectrumID>
+		<SpectrumWidth>3000</SpectrumWidth>
+		<SpectrumSection>
+			<SectionName>Band G</SectionName>
+			<SectionShortName>G</SectionShortName>
+			<SectionWidth>3000</SectionWidth>
+			<SectionPriority>1</SectionPriority>
+		</SpectrumSection>
+	</SpectrumDefinition>	
+
+	<Band>
+		<BandType>Band G</BandType>
+		<BandName>Band G</BandName>
+		<BandShortName>G</BandShortName>
+		<BandStart>826000</BandStart>
+	</Band>
+
+	<SpectrumDefinition>
+		<SpectrumID>Band H</SpectrumID>
+		<SpectrumWidth>6000</SpectrumWidth>
+		<SpectrumSection>
+			<SectionName>Band H</SectionName>
+			<SectionShortName>H</SectionShortName>
+			<SectionWidth>6000</SectionWidth>
+			<SectionPriority>1</SectionPriority>
+		</SpectrumSection>
+	</SpectrumDefinition>	
+
+	<Band>
+		<BandType>Band H</BandType>
+		<BandName>Band H</BandName>
+		<BandShortName>H</BandShortName>
+		<BandStart>826000</BandStart>
+	</Band>
+
+	<SpectrumDefinition>
+		<SpectrumID>Band I</SpectrumID>
+		<SpectrumWidth>2000</SpectrumWidth>
+		<SpectrumSection>
+			<SectionName>Band I</SectionName>
+			<SectionShortName>I</SectionShortName>
+			<SectionWidth>2000</SectionWidth>
+			<SectionPriority>1</SectionPriority>
+		</SpectrumSection>
+	</SpectrumDefinition>	
+
+	<Band>
+		<BandType>Band I</BandType>
+		<BandName>Band I</BandName>
+		<BandShortName>I</BandShortName>
+		<BandStart>863000</BandStart>
+	</Band>
+
+	<SpectrumDefinition>
+		<SpectrumID>Band J</SpectrumID>
+		<SpectrumWidth>20000</SpectrumWidth>
+		<SpectrumSection>
+			<SectionName>Band J</SectionName>
+			<SectionShortName>J</SectionShortName>
+			<SectionWidth>20000</SectionWidth>
+			<SectionPriority>1</SectionPriority>
+		</SpectrumSection>
+	</SpectrumDefinition>	
+
+	<Band>
+		<BandType>Band J</BandType>
+		<BandName>Band J</BandName>
+		<BandShortName>J</BandShortName>
+		<BandStart>1785000</BandStart>
+	</Band>
+
+</WSMBarData>
