@@ -1,0 +1,375 @@
+<global_exclusions time="10:00:58" source="jasonthomasgabriel" version="1.1" appl_version="6.15.2.23" date="Wed May 17 2023">
+<!--Author: Tommy Everts-->
+<!--Reference: Frequency data obtained from https://antennekaart.nl/page/frequencies -->
+    <freq_range_exclusions>
+        <range>
+            <frequency units="kHz">
+                <start> 768000 </start>
+                <end>778000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. KPN Download (28)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 713000 </start>
+                <end>723000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. KPN Upload (28)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 461800 </start>
+                <end>464800</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. PAMR Download</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 451800 </start>
+                <end>454800</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. PAMR Upload</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 778000 </start>
+                <end>788000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. T-Mobile Download (28)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 723000 </start>
+                <end>733000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. T-Mobile Upload (28)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 758000 </start>
+                <end>768000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. Vodafone Download (28)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 703000 </start>
+                <end>713000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. Vodafone Upload (28)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 791000 </start>
+                <end>801000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. T-Mobile Download (20)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 832000 </start>
+                <end>842000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. T-Mobile Upload (20)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 801000 </start>
+                <end>811000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. Vodafone Download (20)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 842000 </start>
+                <end>852000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. Vodafone Upload (20)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 811000 </start>
+                <end>821000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. KPN Download (20)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 852000 </start>
+                <end>862000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. KPN Upload (20)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 925000 </start>
+                <end>935000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. Vodafone Download (8)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 880000 </start>
+                <end>890000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. Vodafone Upload (8)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 935000 </start>
+                <end>945000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. KPN Download (8)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 890000 </start>
+                <end>900000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. KPN Upload (8)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 945000 </start>
+                <end>960000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. T-Mobile Download (8)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 900000 </start>
+                <end>915000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. T-Mobile Upload (8)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 1452000 </start>
+                <end>1467000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. Vodafone Download (32)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 1467000 </start>
+                <end>1482000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. KPN Download (32)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 1482000 </start>
+                <end>1492000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. T-Mobile Download (32)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2110000 </start>
+                <end>2130000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. Vodafone Download (1)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 1920000 </start>
+                <end>1940000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. Vodafone Upload (1)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2130000 </start>
+                <end>2150000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. T-Mobile Download (1)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 1940000 </start>
+                <end>1960000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. T-Mobile Upload (1)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2150000 </start>
+                <end>2170000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. KPN Download (1)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 1960000 </start>
+                <end>1980000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. KPN Upload (1)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2565000 </start>
+                <end>2590000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. T-Mobile Duplex (38)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2590000 </start>
+                <end>2620000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. KPN Duplex (38)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2620000 </start>
+                <end>2630000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. Vodafone Download (7)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2500000 </start>
+                <end>2510000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. Vodafone Upload (7)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2630000 </start>
+                <end>2650000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. VodafoneZiggo Download (7)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2510000 </start>
+                <end>2530000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. VodafoneZiggo Upload (7)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2650000 </start>
+                <end>2655000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. T-Mobile Download (7)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2530000 </start>
+                <end>2535000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. T-Mobile Upload (7)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2655000 </start>
+                <end>2665000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. KPN Download (7)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2535000 </start>
+                <end>2545000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. KPN Upload (7)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2665000 </start>
+                <end>2685000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. T-MobileTele2 Download (7)</notes>
+            <exclude>1</exclude>
+        </range>
+        <range>
+            <frequency units="kHz">
+                <start> 2545000 </start>
+                <end>2565000</end>
+            </frequency>
+            <source>User defined</source>
+            <notes>9. T-MobileTele2 Upload (7)</notes>
+            <exclude>1</exclude>
+        </range>
+    </freq_range_exclusions>
+</global_exclusions>
